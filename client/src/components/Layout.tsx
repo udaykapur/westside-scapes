@@ -31,8 +31,8 @@ export default function Layout({ children }: { children: React.ReactNode }) {
       <div className="bg-secondary text-secondary-foreground py-2 text-sm hidden md:block">
         <div className="container flex justify-between items-center">
           <div className="flex gap-6">
-            <a href="tel:0401845945" className="flex items-center gap-2 hover:text-primary transition-colors">
-              <Phone size={14} /> 0401 845 945
+            <a href="tel:0420454568" className="flex items-center gap-2 hover:text-primary transition-colors">
+              <Phone size={14} /> 0420 454 568
             </a>
             <a href="mailto:contact@westsidescapes.com.au" className="flex items-center gap-2 hover:text-primary transition-colors">
               <Mail size={14} /> contact@westsidescapes.com.au
@@ -179,7 +179,7 @@ export default function Layout({ children }: { children: React.ReactNode }) {
               </li>
               <li className="flex items-center gap-3">
                 <Phone size={18} className="text-primary shrink-0" />
-                <a href="tel:0401845945" className="hover:text-primary transition-colors">0401 845 945</a>
+                <a href="tel:0420454568" className="hover:text-primary transition-colors">0420 454 568</a>
               </li>
               <li className="flex items-center gap-3">
                 <Mail size={18} className="text-primary shrink-0" />
