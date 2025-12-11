@@ -39,7 +39,7 @@ export default function Services() {
       id: "retaining-walls",
       title: "Retaining Walls",
       description: "Functional and decorative retaining walls built from timber, concrete sleepers, or blockwork.",
-      image: "images/hero-backyard.jpg" // Reusing hero for now as placeholder for retaining walls
+      image: "images/service-retaining-walls.jpg"
     }
   ];
 

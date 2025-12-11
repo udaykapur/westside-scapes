@@ -106,7 +106,7 @@ const servicesData: Record<string, {
     title: "Retaining Walls",
     subtitle: "Structural Solutions for Sloped Blocks",
     description: "Retaining walls are vital for maximizing usable space on sloping blocks. We build structural and decorative retaining walls that are engineered to last. Whether you need a heavy-duty concrete sleeper wall or a decorative timber sleeper wall for a garden bed, we ensure proper drainage and construction techniques.",
-    image: "images/hero-backyard.jpg",
+    image: "images/service-retaining-walls.jpg",
     features: [
       "Concrete sleeper walls (various patterns)",
       "Treated pine timber sleeper walls",
